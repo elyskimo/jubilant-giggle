@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std;
+int main (void)
+{
+cout << "tvoja mamka smrdi";
+
+return 0;
+}
